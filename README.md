@@ -16,11 +16,4 @@ Project aimed to receieve and save temperature data in database and save its sta
 Output is visible in browser as current temprature, maximum of the day and min temprature.
 
 
-SECOND STAGE
-------------------------------------------------------------------------------
-
-Aimed to inplement project cloud base with Firebase.
-
-
-There will be both stage codes avaliable SOON.
 
