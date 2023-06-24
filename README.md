@@ -1,7 +1,6 @@
 IOT project
 
-FIRST STAGE
----------------------------------------------------------------------------
+
 Its aimed to improve existing skill and acquire new skills.
 
 In the project was used:
