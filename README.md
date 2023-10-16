@@ -11,7 +11,7 @@ In the project was used:
 -MySQL in Ubuntu
 -Ubuntu for Mqtt broker
 
-Project aimed to receieve and save temperature data in database and save its statistic for minimum value of the day , avarage , maximum and current.
+Project aimed to receieve and save temperature data in database and save its minimum value of the day , avarage , maximum and current.
 Output is visible in browser as current temprature, maximum of the day and min temprature.
 
 
